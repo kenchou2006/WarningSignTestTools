@@ -5,10 +5,10 @@ url = "http://127.0.0.1:8001/arduino_info/"
 url2 = "http://127.0.0.1:8001/output/"
 
 data = {
-    "battery": 0,
-    "battery_tem": "25",
+    "battery": "0",
     "waringsign_status": 2,
-    "UltraSound": "1"
+    "charing": 2,
+    "eco": 2
 }
 
 headers = {
